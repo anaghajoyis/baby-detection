@@ -1,0 +1,24 @@
+body{
+    background-size:cover;
+    background-position: center;
+}
+.header{
+    font-size: xx-large;
+    font-weight: bold;
+    color: #023e8a;
+    border-color: #03045e;
+    background-color: #48cae4;
+}
+a{
+    font-size: 20;
+    color: #7f028a;
+    border-color: #000000;
+    border-width: 2px;
+    background-color: #c748e4;
+    padding: 10px;
+    border-radius: 10px;
+}
+canvas{
+    box-shadow: 5px 5px 5px #926c15;
+    border-radius: 5px;
+}
